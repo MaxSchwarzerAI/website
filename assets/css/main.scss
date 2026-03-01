@@ -88,8 +88,7 @@ a {
 // Profile photo — circular with shadow
 .author-picture img,
 .sidebar img,
-img[src*="headshot"],
-img[src*="twitter"] {
+img[src*="headshot"] {
   border-radius: 50%;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
   transition: box-shadow 0.2s ease;

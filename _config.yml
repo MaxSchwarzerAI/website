@@ -1,4 +1,4 @@
-logo: images/max_twitter_headshot.jpg
+logo: images/clean_headshot.png
 title: Max Schwarzer
 email: MaxA.Schwarzer@gmail.com
 description: >-
@@ -20,7 +20,7 @@ markdown: kramdown
 author: 
   name: Max Schwarzer
   twitter: maxaschwarzer
-  picture: images/max_twitter_headshot.jpg
+  picture: images/clean_headshot.png
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
