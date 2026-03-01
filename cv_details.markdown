@@ -10,15 +10,18 @@ Some details on my educational and career background that probably belong in a C
 
 ## Education
 
-- PhD in Computer Science, Mila, Université de Montréal, Sep. 2020 - Aug. 2024 (est.)
+- PhD in Computer Science, Mila, Université de Montréal, Sep. 2020 - Mar. 2024
 - Master of Science in Computer Science, Mila, Université de Montréal, Sep. 2018 - Aug. 2020
 - Bachelor of Arts in Computer Science and Mathematics, Pomona College, Aug. 2014 – May 2018
 
 
 ## Experience
 
+- VP of Research, OpenAI, San Francisco, CA, September 2025 - Present
+- Member of Technical Staff, OpenAI, San Francisco, CA, November 2023 - September 2025
+- Research Intern, Apple, Cupertino, CA, June 2023 - September 2023
 - Student Researcher, Google Brain, Montreal, QC, January 2022 - June 2023
-- Research Assistant, Mila, Montreal, QC, August 2018 - August 2024
+- Research Assistant, Mila, Montreal, QC, August 2018 - 2023
 - Teaching Assistant, Mila, Montreal, QC, September-December 2021
 - Clinic Team Leader, Claremont Graduate University, Claremont, CA, August 2017 - May 2018
 - Research Intern, Numenta, Redwood City, CA, May-August 2017 and 2018

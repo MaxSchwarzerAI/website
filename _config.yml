@@ -2,8 +2,8 @@ logo: images/max_twitter_headshot.jpg
 title: Max Schwarzer
 email: MaxA.Schwarzer@gmail.com
 description: >-
-  Welcome to my personal website! I'm Max Schwarzer, a final-year PhD student in Montreal. I'm passionate about making reinforcement learning more efficient, scalable, and reliable.
-  Over the years, my research has led to significant improvements in sample efficiency in deep reinforcement learning, but I'm always aiming higher. Stay tuned for updates!
+  Welcome to my personal website! I'm Max Schwarzer, VP of Research at OpenAI. I completed my PhD at Mila in 2024, working on scaling and sample-efficient reinforcement learning.
+  At OpenAI, I led post-training for o1 and o3, and now lead the post-training team.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.maxschwarzer.com" # the base hostname & protocol for your site, e.g. http://example.com
