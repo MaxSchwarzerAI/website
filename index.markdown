@@ -8,10 +8,11 @@ title: 'About Me'
 margin: 1in
 ---
 
-I completed my PhD at Mila in March 2024, supervised by Aaron Courville and Marc Bellemare, working at the intersection of scaling and sample-efficient reinforcement learning. I am currently VP of Research at OpenAI, where I lead the post-training team. Previously, I was a Member of Technical Staff on the Strawberry team (responsible for o1-preview) and led post-training for o1 and o3.
+I completed my PhD at Mila in March 2024, supervised by Aaron Courville and Marc Bellemare, working at the intersection of scaling and sample-efficient reinforcement learning. I am currently a Member of Technical Staff at Anthropic. Previously, I was VP of Research at OpenAI, where I led the post-training team, was a Member of Technical Staff on the Strawberry team (responsible for o1-preview), and led post-training for o1 and o3.
 
 ## News
 
+- **March 2026**: I've joined Anthropic as a Member of Technical Staff.
 - **September 2025**: I've been promoted to VP of Research at OpenAI.
 - **March 2025**: I've taken on the role of leading the post-training team at OpenAI.
 - **November 2023**: I'm excited to be joining OpenAI, where I'll be working on pushing the frontier of AI capabilities.

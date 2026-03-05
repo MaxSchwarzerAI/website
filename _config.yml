@@ -2,8 +2,8 @@ logo: images/clean_headshot.png
 title: Max Schwarzer
 email: MaxA.Schwarzer@gmail.com
 description: >-
-  Welcome to my personal website! I'm Max Schwarzer, VP of Research at OpenAI. I completed my PhD at Mila in 2024, working on scaling and sample-efficient reinforcement learning.
-  At OpenAI, I led post-training for o1 and o3, and now lead the post-training team.
+  Welcome to my personal website! I'm Max Schwarzer, a Member of Technical Staff at Anthropic. I completed my PhD at Mila in 2024, working on scaling and sample-efficient reinforcement learning.
+  Previously, I was VP of Research at OpenAI, where I led post-training for o1 and o3.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.maxschwarzer.com" # the base hostname & protocol for your site, e.g. http://example.com
