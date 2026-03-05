@@ -17,7 +17,8 @@ Some details on my educational and career background that probably belong in a C
 
 ## Experience
 
-- VP of Research, OpenAI, San Francisco, CA, September 2025 - Present
+- Member of Technical Staff, Anthropic, San Francisco, CA, March 2026 - Present
+- VP of Research, OpenAI, San Francisco, CA, September 2025 - March 2026
 - Member of Technical Staff, OpenAI, San Francisco, CA, November 2023 - September 2025
 - Research Intern, Apple, Cupertino, CA, June 2023 - September 2023
 - Student Researcher, Google Brain, Montreal, QC, January 2022 - June 2023
